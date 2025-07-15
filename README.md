@@ -20,4 +20,5 @@
 ### • For backend technology SQLite use Local database to store conversion history or user preferences.
 
 ### • For API service exchange rate API Provides real-time currency exchange rates.
+## Screenshot 
 <img width="413" height="606" alt="image" src="https://github.com/user-attachments/assets/b2a5b175-70c7-446e-bb5b-55315909cf1f" />
