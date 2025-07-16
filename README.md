@@ -2,7 +2,7 @@
 ### A Currency Converter App is a software application that allows users to convert the value of one currency into another using real-time or manually inputted exchange rates. It is commonly used by travelers, businesses, and investors who need to know the current value of money across different countries.
 
 ## Features
-#### • Real-time Currency Conversion – Converts one currency to another using up-to-date exchange rates.
+### • Real-time Currency Conversion – Converts one currency to another using up-to-date exchange rates.
 
 ### • Multiple Currency Support – Supports conversions for various international currencies (e.g., USD, INR, EUR).
 
@@ -30,7 +30,25 @@
 
 ### • For API service exchange rate API Provides real-time currency exchange rates.
 
-##
+## Usage of the app 
+### • For the Travelers to check foreign prices in their local currency.
+
+### • For Businesses & Freelancers it is very useful to handle international payments.
+
+### • Online Shoppers for calculate actual product costs.
+
+### • Students & Researchers to study currency trends.
+
+### • For General Users it is helpful for it's quick and accurate currency conversions anytime.
+
+### • This app ensures fast, easy, and reliable currency calculations worldwide.
+
+## Configuration and Requirements 
+### • Hardware RequirementsLists - minimum device requirements RAM, processor, etc., especially for mobile apps.
+
+### • Software Requirements - Specifies OS (e.g., Windows, Android), SDK versions, required libraries, etc.
+
+### • System Configuration - Explains settings or configurations needed to run the app – like API keys or permission settings.
 
 ## Screenshot 
 <img width="413" height="606" alt="image" src="https://github.com/user-attachments/assets/b2a5b175-70c7-446e-bb5b-55315909cf1f" />
