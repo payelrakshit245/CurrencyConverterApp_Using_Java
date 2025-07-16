@@ -1,8 +1,8 @@
 # Currency Converter App Using Java
-## A Currency Converter App is a software application that allows users to convert the value of one currency into another using real-time or manually inputted exchange rates. It is commonly used by travelers, businesses, and investors who need to know the current value of money across different countries.
+### A Currency Converter App is a software application that allows users to convert the value of one currency into another using real-time or manually inputted exchange rates. It is commonly used by travelers, businesses, and investors who need to know the current value of money across different countries.
 
 ## Features
-### • Real-time Currency Conversion – Converts one currency to another using up-to-date exchange rates.
+#### • Real-time Currency Conversion – Converts one currency to another using up-to-date exchange rates.
 
 ### • Multiple Currency Support – Supports conversions for various international currencies (e.g., USD, INR, EUR).
 
