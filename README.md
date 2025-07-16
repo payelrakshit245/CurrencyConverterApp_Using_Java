@@ -50,5 +50,16 @@
 
 ### • System Configuration - Explains settings or configurations needed to run the app – like API keys or permission settings.
 
+## Importance
+### • Real-Time conversion to converts currencies instantly using by live exchange rates.
+
+### • It helps international trade to calculate payments across different currencies.
+
+### • For Financial Awareness it makes users aware of current exchange rates and market trends.
+
+### • It very convenient & time-saving for the Easy-to-use tool available on smartphones anytime, anywhere.
+
+### • It simplifies currency exchange, saving time, reducing errors, and supporting global transactions.
+
 ## Screenshot of the result
 <img width="413" height="606" alt="image" src="https://github.com/user-attachments/assets/b2a5b175-70c7-446e-bb5b-55315909cf1f" />
